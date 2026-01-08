@@ -45,6 +45,7 @@ libraries:
           trakt_list_monster: https://trakt.tv/users/rzepkowski/lists/monsterverse-movies
           url_poster_monster: https://raw.githubusercontent.com/Kometa-Team/Default-Images/master/universe/monsterverse.jpg
       - default: decade
+      - default: franchise
       - repo: Movies.yml
     overlay_files:
       - remove_overlays: false
